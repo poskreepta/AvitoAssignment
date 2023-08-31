@@ -1,0 +1,6 @@
+module Pods_AvitoAssignment {
+  umbrella header "Pods-AvitoAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
