@@ -13,10 +13,10 @@
 Проект разработан с использованием архитектурного паттерна MVVM + Сoordinator (Model-View-ViewModel) с дополнительным слоем координатора для управления навигацией между экранами.
 
 ##  API
-The application works in conjunction with a backend system that provides the necessary APIs for user registration, authentication, and other functions. The backend team has developed the required APIs for the application.
-
-Please find the link to the API documentation below: [http://34.159.136.79/api](http://34.159.136.79/api/)
-
+URL для запроса на главном экране.
+[https://www.avito.st/s/interns-ios/main-page.json/](https://www.avito.st/s/interns-ios/main-page.json)
+URL для запроса на детальной странице. ID берется из данных для главного экрана.
+[https://www.avito.st/s/interns-ios/details/{itemId}.json/](https://www.avito.st/s/interns-ios/details/{itemId}.json)
 
 ## Technologies and Libraries
 - UIKit
