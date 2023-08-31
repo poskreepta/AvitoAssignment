@@ -5,7 +5,7 @@
 Данный проект является реализацией тестового задания для стажёра iOS и представляет собой приложение для iOS (marketplace), состоящее из двух экранов:
 
 1.  **Список товаров**: Этот экран является стартовым и отображает список товаров в формате двух столбцов. 
-<div style="display: flex; flex-direction: row;">  <img src="https://i.ibb.co/PgsK0hQ/Simulator-Screen-Shot-i-Phone-14-2023-08-31-at-23-50-08-min-2.png" alt="https://i.ibb.co/PgsK0hQ/Simulator-Screen-Shot-i-Phone-14-2023-08-31-at-23-50-08-min-2.png" style="margin-right: 10px;"> <img src="https://i.ibb.co/qMBz1n2/Simulator-Screen-Shot-i-Phone-14-2023-08-31-at-23-49-55-min.png" alt="https://i.ibb.co/qMBz1n2/Simulator-Screen-Shot-i-Phone-14-2023-08-31-at-23-49-55-min.png" style="margin-right: 10px;">  </div>   
+<div style="display: flex; flex-direction: row;">  <img src="https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-Resize-o8FkyyLJecugQpQ.png" alt="https://srv2.imgonline.com.ua/result_img/imgonline-com-ua-Resize-o8FkyyLJecugQpQ.png" style="margin-right: 10px;"> <img src="https://srv4.imgonline.com.ua/result_img/imgonline-com-ua-Resize-KrTLcTqSk8MW.png" alt="https://srv4.imgonline.com.ua/result_img/imgonline-com-ua-Resize-KrTLcTqSk8MW.png" style="margin-right: 10px;">  </div>   
 2.  **Детальная карточка товара**: Этот экран открывается при нажатии на элемент списка товаров. Он отображает подробную информацию о выбранном товаре.
 
 ## Архитектура
